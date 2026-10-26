@@ -33,8 +33,8 @@ Logs are sent to `esp32/Logs`, and errors are sent to `esp32/Status`.
 
 Also, two commands are already configured in the main file:
 
-- `reset`: resets your ESP32 using `machine.reset()`
-- `list`: lists the available scripts
+- `reset`: resets your ESP32 using `machine.reset()`.
+- `list`: lists the available scripts.
 
 ## Creating your own script
 
